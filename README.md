@@ -7,7 +7,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🚀 Live Demo
-**[View Live Portfolio](https://your-vercel-link-here.app)**
+**[View Live Portfolio](https://portfolio-gamma-green-76.vercel.app/)**
 
 ## 👨‍💻 About The Project
 This portfolio serves as my digital identity as a **Frontend Developer**. Unlike standard templates, this project was built from scratch to demonstrate:

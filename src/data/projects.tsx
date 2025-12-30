@@ -36,7 +36,7 @@ export const projects = [
     description: "This Website. A modular, component-based React application designed to showcase my journey.",
     tech: ["React", "TypeScript", "Tailwind CSS"],
     github: "https://github.com/yashrajkmr",
-    live: "#",
+    live: "https://portfolio-gamma-green-76.vercel.app/",
     status: "Live",
     icon: Code2,
     highlights: [
