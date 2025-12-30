@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+# ⚡ Interactive Developer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A modern, high-performance portfolio website built to showcase frontend engineering skills. Designed with a focus on responsive UI/UX, modular component architecture, and clean code practices.
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-In the project directory, you can run:
+## 🚀 Live Demo
+**[View Live Portfolio](https://your-vercel-link-here.app)**
 
-### `npm start`
+## 👨‍💻 About The Project
+This portfolio serves as my digital identity as a **Frontend Developer**. Unlike standard templates, this project was built from scratch to demonstrate:
+* **Component-Based Architecture:** Organized file structure separating Logic, UI, and Data.
+* **Responsive Design:** Mobile-first approach using Tailwind CSS.
+* **Modern React Patterns:** Usage of Hooks (`useState`, `useEffect`) and Functional Components.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛠️ Tech Stack
+* **Core:** React.js, TypeScript
+* **Styling:** Tailwind CSS
+* **Icons:** Lucide React
+* **Deployment:** Vercel
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📂 Project Structure
+The codebase is refactored for scalability and maintainability:
 
-### `npm test`
+src/ ├── components/ # Reusable UI components (Hero, Skills, Projects, etc.) ├── data/ # Static data files (Easy to update content without touching logic) ├── App.tsx # Main layout and scroll logic └── index.css # Tailwind directives and custom animations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## ⚡ Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To run this project locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 1. Clone the repository
+```bash
+git clone [https://github.com/yashrajkmr/portfolio.git](https://github.com/yashrajkmr/portfolio.git)
+cd portfolio
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Install Dependencies
+npm install
 
-### `npm run eject`
+3. Run the Development Server
+npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Open http://localhost:3000 to view it in the browser.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🌟 Features
+• Dynamic Project Cards: Data-driven mapping of projects with status badges.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+• Tiered Skills Display: Categorized technical skills without arbitrary percentages.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+• Smooth Navigation: Custom scroll-to-section logic.
 
-## Learn More
+• Contact Form: Integrated UI for quick connection.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+📬 Contact
+**Yashraj Kumar** Frontend Developer
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📧 yashrajkmr01@gmail.com
+
+🔗 LinkedIn
+
+© 2025 Yashraj Kumar. Built with React & Tailwind CSS.
