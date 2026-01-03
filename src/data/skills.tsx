@@ -19,6 +19,6 @@ export const skills = [
   {
     category: "Problem Solving",
     icon: Database,
-    items: ["C++ (200+ LeetCode)", "Data Structures", "Algorithms"]
+    items: ["C++ (200+ Problems)", "LeetCode & GFG", "Data Structures", "Algorithms"]
   }
 ];

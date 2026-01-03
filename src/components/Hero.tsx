@@ -35,8 +35,8 @@ const Hero = ({ scrollToSection }: { scrollToSection: (id: string) => void }) =>
           </button>
           
           <a 
-            href="/resume.pdf" 
-            download="Yashraj_Kumar_Resume.pdf"
+            href="/Yashraj_Kumar_Frontend_Developer_Resume.pdf" 
+            download="Yashraj_Kumar_Frontend_Developer_Resume.pdf"
             className="px-8 py-4 bg-white/10 backdrop-blur-sm rounded-lg font-semibold hover:bg-white/20 transition-all border border-white/20 flex items-center gap-2"
           >
             <FileText size={20} />
